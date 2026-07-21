@@ -53,3 +53,8 @@ Built an interactive **Topline Performance Dashboard** with:
 - KPI Analysis
 - Data Storytelling
 - Dashboard Design
+
+## 📸 Dashboard Preview
+Show what the dashboard looks like.
+![Dashboard Preview](https://github.com/Kartavi28/Maven-Market-Analytics-Dashboard/blob/main/Maven_Analytics_Dashborad.png)
+  
