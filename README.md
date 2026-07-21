@@ -55,6 +55,6 @@ Built an interactive **Topline Performance Dashboard** with:
 - Dashboard Design
 
 ## 📸 Dashboard Preview
-Show what the dashboard looks like.
+
 ![Dashboard Preview](https://github.com/Kartavi28/Maven-Market-Analytics-Dashboard/blob/main/Maven_Analytics_Dashborad.png)
   
